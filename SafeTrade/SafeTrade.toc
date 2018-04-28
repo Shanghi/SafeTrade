@@ -1,0 +1,10 @@
+## Interface: 20400
+## Title: SafeTrade
+## Author: Pyralis
+## Version: 1.0
+## Notes: A safer trade window to protect against trade scams where the villain removes gold or items right before you accept.
+## SavedVariables: SafeTradeSave
+## DefaultState: Enabled
+## LoadOnDemand: 0
+
+SafeTrade.lua
